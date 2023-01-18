@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm a Data Analyst!;I used it in my projects ;Python | Matplotlib ;Tableau|ML|DL|NLP !&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm a Data Analyst!;I used it in my projects ;Python | Matplotlib | Numpy| Pandas;Tableau|ML|DL|NLP !&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <!--
