@@ -25,7 +25,6 @@
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>
 
 <!--
 **AyseUcmakli/AyseUcmakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
