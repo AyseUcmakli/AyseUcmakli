@@ -23,6 +23,8 @@
 <a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="55"/> </a>
 </p>
 
+### <h2 align="center">&#127894; My Projects</h2>
+
 <!--
 **AyseUcmakli/AyseUcmakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
