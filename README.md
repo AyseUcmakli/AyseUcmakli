@@ -37,7 +37,7 @@
 <tr>
     <td align=center >1.</td>
     <td>MLSoldier_Race-Project</td>
-    <td>(https://github.com/AyseUcmakli/Machine_Learning/tree/main/ML_Soldier_Race_Project)/</td> 
+    <td>(https://github.com/AyseUcmakli/Machine_Learning)</td> 
     <td>Logistic-XGBoost-SVM-RandomForest-Smote-Shap</td>
 </tr>
 
