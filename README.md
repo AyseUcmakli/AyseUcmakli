@@ -37,8 +37,8 @@
 <tr>
     <td align=center >1.</td>
     <td>MLSoldier_Race-Project</td>
-    <td>[https://gamzeyasarr.netlify.app](https://github.com/AyseUcmakli/Machine_Learning/tree/main/ML_Soldier_Race_Project)/</td> 
-    <td>React-React DOM-Props-Components</td>
+    <td>(https://github.com/AyseUcmakli/Machine_Learning/tree/main/ML_Soldier_Race_Project)/</td> 
+    <td>Logistic-XGBoost-SVM-RandomForest-Smote-Shap</td>
 </tr>
 
 
