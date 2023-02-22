@@ -25,6 +25,16 @@
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
+ <table>
+<tr >
+    <caption>React-Redux Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+  
+</tr>
+
 
 <!--
 **AyseUcmakli/AyseUcmakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
