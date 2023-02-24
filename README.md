@@ -43,8 +43,8 @@
       
 <tr>
     <td align=center >1.</td>
-    <td>Capstone_Project-Churn_Prediction</td>
-    <td>(https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction)</td> 
+    <td>Customer_Segmentation</td>
+    <td>https://github.com/AyseUcmakli/Customer_segmentation_RFM_Kmeans_Cohort_Analysis</td> 
     <td>RFM&Cohort_analysis-K-Means_Clustering_CustSegmentation</td>
 </tr>
 
