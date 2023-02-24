@@ -27,7 +27,6 @@
 
  <table>
 <tr >
-    ### <caption>React-Redux Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
