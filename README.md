@@ -40,6 +40,13 @@
     <td>(https://github.com/AyseUcmakli/Machine_Learning/blob/main/ML_Soldier_Race_Project/soldier_race_project_solution.ipynb)</td> 
     <td>Logistic-XGBoost-SVM-RandomForest-Smote-Shap</td>
 </tr>
+      
+<tr>
+    <td align=center >1.</td>
+    <td>Capstone_Project-Churn_Prediction</td>
+    <td>(https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction)</td> 
+    <td>RFM&Cohort_analysis-K-Means_Clustering_CustSegmentation</td>
+</tr>
 
 
 
