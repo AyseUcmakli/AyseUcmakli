@@ -56,7 +56,7 @@
   
   <tr>
     <td align=center >3.</td>
-    <td>Fraud Detection Project </td>
+    <td>Fraud_Detection_Project </td>
     <td></td> 
     <td></td>
 </tr>
