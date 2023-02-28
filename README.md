@@ -50,7 +50,7 @@
  <tr>
     <td align=center >3.</td>
     <td>Capstone_Project-Churn_Prediction </td>
-    <td>(https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction)</td> 
+    <td>https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction</td> 
     <td>ML_Models-ANN</td>
 </tr>
   
