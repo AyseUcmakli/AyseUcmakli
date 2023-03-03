@@ -62,6 +62,13 @@
     <td>https://github.com/AyseUcmakli/Machine_Learning/blob/main/ML_Soldier_Race_Project/soldier_race_project_solution.ipynb</td> 
     <td>Logistic-XGBoost-SVM-RandomForest-Smote-Shap</td>
 </tr>
+  
+ <tr>
+    <td align=center >2.</td>
+    <td></td>
+    <td></td> 
+    <td></td>
+</tr>
 
 <!--
 **AyseUcmakli/AyseUcmakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
