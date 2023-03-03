@@ -43,7 +43,7 @@
 </tr>
   
  <tr>
-    <td align=center >3.</td>
+    <td align=center >2.</td>
     <td>Capstone_Project-Churn_Prediction </td>
     <td>https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction</td> 
     <td>ML_Models-ANN</td>
@@ -57,14 +57,14 @@
 </tr>
 
 <tr>
-    <td align=center >1.</td>
+    <td align=center >4.</td>
     <td>MLSoldier_Race-Project</td>
     <td>https://github.com/AyseUcmakli/Machine_Learning/blob/main/ML_Soldier_Race_Project/soldier_race_project_solution.ipynb</td> 
     <td>Logistic-XGBoost-SVM-RandomForest-Smote-Shap</td>
 </tr>
   
  <tr>
-    <td align=center >2.</td>
+    <td align=center >5.</td>
     <td></td>
     <td></td> 
     <td></td>
