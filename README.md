@@ -66,7 +66,7 @@
  <tr>
     <td align=center >5.</td>
     <td>ML Auto Scout Project </td>
-    <td></td> 
+    <td>https://github.com/AyseUcmakli/ML_Auto_scout_project_1</td> 
     <td></td>
 </tr>
 
