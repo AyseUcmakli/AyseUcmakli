@@ -65,7 +65,7 @@
   
  <tr>
     <td align=center >5.</td>
-    <td></td>
+    <td>ML Auto Scout Project </td>
     <td></td> 
     <td></td>
 </tr>
