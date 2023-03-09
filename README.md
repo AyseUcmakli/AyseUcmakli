@@ -72,7 +72,7 @@
    <tr>
     <td align=center >6.</td>
     <td>ML Auto Scout Project </td>
-    <td>https://github.com/AyseUcmakli/ML_Auto_scout_project_1</td> 
+    <td>https://github.com/AyseUcmakli/Forecasting-Bus-Demand-in-Banana-Republic-Municipalities</td> 
     <td></td>
 </tr>
 
