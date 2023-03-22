@@ -54,7 +54,6 @@
     <td>https://github.com/AyseUcmakli/Customer_segmentation_RFM_Kmeans_Cohort_Analysis</td> 
     <td>RFM&Cohort_analysis-K-Means_Clustering_CustSegmentation</td>
 </tr>
-  
 
 <tr>
     <td align=center >4.</td>
@@ -69,7 +68,8 @@
     <td>https://github.com/AyseUcmakli/ML_Auto_scout_project_1</td> 
     <td></td>
 </tr>
-   <tr>
+  
+<tr>
     <td align=center >6.</td>
     <td>Forecasting with Time Series </td>
     <td>https://github.com/AyseUcmakli/Forecasting-Bus-Demand-in-Banana-Republic-Municipalities</td> 
