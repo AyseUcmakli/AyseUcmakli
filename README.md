@@ -25,6 +25,9 @@
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+
  <table>
 <tr >
     <th width="5%">S.Nu </th>
