@@ -48,7 +48,7 @@
     <td align=center >2.</td>
     <td>Churn_Prediction </td>
     <td>https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction</td> 
-    <td>ML_Models-ANN</td>
+    <td>ML_Models-ANN-elbow_method</td>
 </tr>
       
 <tr>
