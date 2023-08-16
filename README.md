@@ -50,6 +50,7 @@
     <td>https://github.com/AyseUcmakli/Capstone_Project-Churn_Prediction</td> 
     <td>ML_Models-ANN-elbow_method</td>
 </tr>
+
       
 <tr>
     <td align=center >3.</td>
