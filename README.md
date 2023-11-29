@@ -72,7 +72,7 @@
     <td>https://github.com/AyseUcmakli/ML_Auto_scout_project_1</td> 
     <td></td>
 </tr>
-  
+
   
 <tr>
     <td align=center >6.</td>
