@@ -22,6 +22,7 @@
 <a href="#" target="_blank"> <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt = Streamlit height="55"/> </a>
 </p>
 
+
 ### <h2 align="center">&#127894; My Projects</h2>
 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
