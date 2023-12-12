@@ -81,6 +81,12 @@
     <td>Exponential Smoothing, ARIMA,</td>
 </tr>
 
+<tr>
+    <td align=center >6.</td>
+    <td>Forecasting with Time Series </td>
+    <td>https://github.com/AyseUcmakli/Forecasting-Bus-Demand-in-Banana-Republic-Municipalities</td> 
+    <td>Exponential Smoothing, ARIMA,</td>
+</tr>
 
 <!--
 **AyseUcmakli/AyseUcmakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
