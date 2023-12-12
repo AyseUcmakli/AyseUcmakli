@@ -83,7 +83,7 @@
 
 <tr>
     <td align=center >7.</td>
-    <td>Forecasting with Time Series </td>
+    <td>Dog Classification  </td>
     <td>https://github.com/AyseUcmakli/Forecasting-Bus-Demand-in-Banana-Republic-Municipalities</td> 
     <td>Exponential Smoothing, ARIMA,</td>
 </tr>
