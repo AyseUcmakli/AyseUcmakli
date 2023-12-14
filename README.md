@@ -84,7 +84,7 @@
 <tr>
     <td align=center >7.</td>
     <td>Dog Classification  </td>
-    <td>https://github.com/AyseUcmakli/Forecasting-Bus-Demand-in-Banana-Republic-Municipalities</td> 
+    <td>https://https://github.com/AyseUcmakli/Deep_Learning/tree/main/Dog_Classification</td> 
     <td>Exponential Smoothing, ARIMA,</td>
 </tr>
 
