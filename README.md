@@ -85,7 +85,7 @@
     <td align=center >7.</td>
     <td>Dog Classification  </td>
     <td>https://github.com/AyseUcmakli/Deep_Learning/tree/main/Dog_Classification</td> 
-    <td>CNN,Pre-Trained-Models,</td>
+    <td>CNN,Pre-Trained-Models</td>
 </tr>
 
 <!--
