@@ -91,8 +91,8 @@
 <tr>
     <td align=center >8.</td>
     <td> </td>
-    <td>https://github.com/AyseUcmakli/Deep_Learning/tree/main/Dog_Classification</td> 
-    <td>CNN,Pre-Trained-Models</td>
+    <td></td> 
+    <td></td>
 </tr>
 
 <!--
