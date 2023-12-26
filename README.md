@@ -90,7 +90,7 @@
 
 <tr>
     <td align=center >8.</td>
-    <td> </td>
+    <td>Customer Segmentation with SQL and Tableau</td>
     <td></td> 
     <td></td>
 </tr>
