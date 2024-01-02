@@ -93,7 +93,7 @@
     <td align=center >8.</td>
     <td>Customer Segmentation with SQL and Tableau</td>
     <td>https://github.com/AyseUcmakli/SQL/blob/main/RFM_Analysis/RFM_Analysis.sql, https://github.com/AyseUcmakli/TABLEAU/blob/main/RFM_Analysis/Customer_purchasing_Habits.twbx</td> 
-    <td> </td>
+    <td>RFM </td>
 </tr>
 
 <!--
