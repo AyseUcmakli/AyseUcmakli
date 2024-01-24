@@ -100,7 +100,7 @@
     <td align=center >9.</td>
     <td>Sentiment Analysis on Movies</td>
     <td> </td> 
-    <td>RFM </td>
+    <td>bert,distilbert </td>
 </tr>
 
 <!--
