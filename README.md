@@ -101,7 +101,7 @@
     <td align=center >9.</td>
     <td>Sentiment Analysis on Movies</td>
     <td> </td> 
-    <td>bert,distilbert </td>
+    <td>pre_trained models,bert,distilbert </td>
 </tr>
 
 <!--
