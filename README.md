@@ -237,13 +237,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyseUcmakli&show_icons=true&theme=tokyonight" alt="Ayşe's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseUcmakli&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyseUcmakli&show_icons=true&theme=tokyonight" alt="Ayşe's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseUcmakli&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyseUcmakli&show_icons=true&theme=tokyonight&count_private=true" alt="Ayşe's GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseUcmakli&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" height="180" />
 </p>
