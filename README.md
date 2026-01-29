@@ -236,7 +236,4 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyseUcmakli&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyseUcmakli&layout=compact&theme=tokyonight&hide=html,css" height="170" />
-</p>
+
