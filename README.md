@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Data+Scientist!;Python+|+Pandas+|+NumPy+|+Matplotlib;ML+|+Deep+Learning+|+NLP;Tableau+|+SQL+|+Streamlit;Passionate+Problem+Solver!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=36BCF7">
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ayse-ucmakli/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
